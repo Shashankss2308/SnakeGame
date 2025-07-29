@@ -1,2 +1,2 @@
 # SnakeGame
-Its a small project where I had created a snake game with help pf "pygame", "time" & "random" library in python
+Its a personal mini project where I had created a Snake Game with help of Python using various libraries such as "Pygame", "math", etc
